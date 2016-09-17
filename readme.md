@@ -1,7 +1,7 @@
 # Digital Ocean Promo Code
-## August 2016
+## September 2016
 
-**$10 Promo Code for Digital Ocean August 2016**
+**$10 Promo Code for Digital Ocean September 2016**
 
 How to get the Discount?  
 
