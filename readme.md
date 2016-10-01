@@ -1,5 +1,4 @@
-# Digital Ocean Promo Code
-## Oktober 2016
+# Digital Ocean Promo Code for October 2016
 
 Save $20 for your Cloud Solution with Digital Ocean
 
@@ -12,6 +11,8 @@ Save $20 for your Cloud Solution with Digital Ocean
 A $20 discount is not bad for a service that coasts only $4 per month :)
 
 Im searching myself for promocodes for programmable Microcontrollers (IoT devices) with Javascript API like the *Johnny-Five Inventor's Kit*. Let me know in case you got one :)
+  
+![promo code digital ocean](http://i.giphy.com/3osxYamKD88c6pXdfO.gif)
 
-	
+
 	Should the code not working any longer please let me know that i delete this repository.
