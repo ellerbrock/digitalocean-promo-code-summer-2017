@@ -1,17 +1,17 @@
 # Digital Ocean Promo Code
-## September 2016
+## Oktober 2016
 
-**$10 Promo Code for Digital Ocean September 2016**
+Save $20 for your Cloud Solution with Digital Ocean
 
-How to get the Discount?  
+## How to get the Discount?  
 
-1.) Click here to [Sign Up](https://m.do.co/c/25b74399d9b5) for a new Account  
-2.) Enter `DO10` to get a $10 discount  
+####  1.) Use the link to [Sign Up](https://m.do.co/c/25b74399d9b5) and save your first $10.
 
-Screenshot for prove:
+#### 2.) When you choose your payment setup up you can save another 10 bugs entering the promo code `DO10`.
 
-![digital ocean promo code](https://github.frapsoft.com/top/promo-code.jpg) 
+A $20 discount is not bad for a service that coasts only $4 per month :)
 
-In case the Promo Code should not longer working please open an issue to let me know ...
+Im searching myself for promocodes for programmable Microcontrollers (IoT devices) with Javascript API like the *Johnny-Five Inventor's Kit*. Let me know in case you got one :)
 
-Have fun with your new awesome SSD Cloud Space!
+	
+	Should the code not working any longer please let me know that i delete this repository.
