@@ -8,7 +8,7 @@ Save $20 for your Cloud Solution with Digital Ocean
 
 #### 2.) When you choose your payment setup up you can save another 10 bugs entering the promo code `DO10`.
 
-A $20 discount is not bad for a service that coasts only $4 per month :)
+A $20 discount is not bad for a service that coast $5 per month :)
 
 Im searching myself for promocodes for programmable Microcontrollers (IoT devices) with Javascript API like the *Johnny-Five Inventor's Kit*. Let me know in case you got one :)
   
