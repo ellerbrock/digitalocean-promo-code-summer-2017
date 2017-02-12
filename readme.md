@@ -1,4 +1,4 @@
-# Digital Ocean Promo Code for November 2016
+# Digital Ocean Promo Code for Februar 2017
 
 Save $20 for your Cloud Solution with Digital Ocean
 
