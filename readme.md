@@ -8,6 +8,15 @@ Save $25 for your Cloud Computing Solution with Digital Ocean.
 
 #### 2.) Enter the Promocode `LOWENDBOX` when you choose your payment method and get another $15 discount.
 
+Other Promocodes:
+
+- `DROPLET10`
+- `ALLSSD10`
+- `DODEPLOY`
+- `SHIPITFAST10`
+- `OMGSSD10`
+- `FRANKFURT`
+
 Starting with a $25 discount is not bad for a service which only coast $5 per month :)
   
 ![promo code digital ocean](https://media.giphy.com/media/obQ0Q8dav3L5S/giphy.gif)
