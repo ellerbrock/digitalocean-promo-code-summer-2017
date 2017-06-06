@@ -1,18 +1,15 @@
-# Digital Ocean Promo Code for Februar 2017
+# Digital Ocean Promo Code for June / July / August 2017
 
-Save $20 for your Cloud Solution with Digital Ocean
+Save $25 for your Cloud Computing Solution with Digital Ocean.
 
 ## How to get the Discount?  
 
-####  1.) Use the link to [Sign Up](https://m.do.co/c/25b74399d9b5) and save your first $10.
+####  1.) Use this link to [Sign Up](https://m.do.co/c/25b74399d9b5) and save your first $10.
 
-#### 2.) When you choose your payment setup up you can save another 10 bugs entering the promo code `DO10`.
+#### 2.) Enter the Promocode `LOWENDBOX` when you choose your payment method and get another $15 discount.
 
-A $20 discount is not bad for a service that coast $5 per month :)
-
-Im searching myself for promocodes for programmable Microcontrollers (IoT devices) with Javascript API like the *Johnny-Five Inventor's Kit*. Let me know in case you got one :)
+Starting with a $25 discount is not bad for a service which only coast $5 per month :)
   
-![promo code digital ocean](http://i.giphy.com/3osxYamKD88c6pXdfO.gif)
+![promo code digital ocean](https://media.giphy.com/media/obQ0Q8dav3L5S/giphy.gif)
 
-
-	Should the code not working any longer please let me know that i delete this repository.
+*In case the discount won't work in the futher anymore please open an issue to let me know about it to delete this repository.*
