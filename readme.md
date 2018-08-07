@@ -16,6 +16,15 @@ Other Promocodes:
 - `SHIPITFAST10`
 - `OMGSSD10`
 - `FRANKFURT`
+- `CODEANYWHERE`
+- `DOPRODUCT15`
+- `DO10`
+- `WP10`
+- `BITNAMI`
+- `DEPLOY10`
+- `ACTIVATE10`
+- `DONEWS`
+- `FRANKFURT`
 
 Starting with a $25 discount is not bad for a service which only coast $5 per month :)
   
