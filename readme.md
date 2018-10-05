@@ -1,4 +1,5 @@
-# Digital Ocean Promo Code for August / September / October 2018
+# Digital Ocean Promo Code for Spring / Winter 2018
+## October / November / December 2018
 
 Save $25 for your Cloud Computing Solution with Digital Ocean.
 
